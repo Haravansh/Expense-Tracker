@@ -12,7 +12,8 @@ It is a expense tracker website where you can track your expenses.
 ** Steps to Setup**
 1. Clone the application
       
-      git clone https://github.com/Haravansh/
+      git clone https://github.com/Haravansh/Expense-Tracker.git
+
       
 2. Create Mysql database
 
